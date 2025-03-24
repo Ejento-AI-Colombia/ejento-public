@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ejento-public/static/css/main.0c779d2a.css",
-    "main.js": "/ejento-public/static/js/main.62faa91b.js",
+    "main.js": "/ejento-public/static/js/main.d7bebf12.js",
     "static/media/logo.svg": "/ejento-public/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "static/media/loading.svg": "/ejento-public/static/media/loading.330b7d99bfbae8039a5456998d97914f.svg",
     "index.html": "/ejento-public/index.html",
     "main.0c779d2a.css.map": "/ejento-public/static/css/main.0c779d2a.css.map",
-    "main.62faa91b.js.map": "/ejento-public/static/js/main.62faa91b.js.map"
+    "main.d7bebf12.js.map": "/ejento-public/static/js/main.d7bebf12.js.map"
   },
   "entrypoints": [
     "static/css/main.0c779d2a.css",
-    "static/js/main.62faa91b.js"
+    "static/js/main.d7bebf12.js"
   ]
 }
